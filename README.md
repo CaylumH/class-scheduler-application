@@ -1,4 +1,4 @@
-# Class Scheduler Application – Event-Driven Programming Project
+# Class Scheduler Application – CS4076 Event-Driven Programming Project
 
 This project is a **TCP protocol-based client-server service** for scheduling classes. It consists of two applications:  
 
