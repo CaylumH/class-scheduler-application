@@ -58,6 +58,4 @@ All operations use **exception handling**, including a custom `IncorrectActionEx
 
 **Early Lecture Feature Demo**  
 ![Early Lectures](images/timetable.gif)  
-*Demonstrates scheduling a class earlier in the day if no clashes exist, then updating the timetable.*  
-
----
+*Demonstrates scheduling a class earlier in the day if no clashes exist, then updating the timetable.*
