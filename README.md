@@ -57,7 +57,7 @@ All operations use **exception handling**, including a custom `IncorrectActionEx
 ![Updated Schedule](images/display2_screenshot.png)  
 
 **Early Lecture Feature Demo**  
-![Early Lectures](images/early_lectures.gif)  
+![Early Lectures](images/timetable.gif)  
 *Demonstrates scheduling a class earlier in the day if no clashes exist, then updating the timetable.*  
 
 ---
